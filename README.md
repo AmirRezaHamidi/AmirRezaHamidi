@@ -1,13 +1,19 @@
-### Hi there 👋
+### Welcome to my GitHub Page 
 
-- I'm a signal Processing Engineer
+- 🌱 Signal Processing Engineer
 
-- 🔭 I'm currently working on seizure Prediction using advanced signal processing and machine learning techniques
+- 🔭 Currently working on Precise seizure Prediction using advanced signal processing and machine learning techniques
 
 - 📫 Reach me At amirrezahamidi75@gmail.com
 
-<img src="https://github-readme-stats.vercel.app/api?username=AmirRezaHamidi&show_icons=true&theme=ADD_THEME_HERE" width="400">
+- 👯 Happy Coding ...
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirRezaHamidi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
+<img src="https://github-readme-stats.vercel.app/api?username=AmirRezaHamidi&show_icons=true&theme=Blue" width="400">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
