@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-I'm a signal Processing Engineer
+- I'm a signal Processing Engineer
 
-I'm currently working on seizure Prediction using advanced signal processing and machine learning techniques
+- 🔭 I'm currently working on seizure Prediction using advanced signal processing and machine learning techniques
 
-Reach me @ amirrezahamidi75@gmail.com
+- 📫 Reach me At amirrezahamidi75@gmail.com
 
 <img src="https://github-readme-stats.vercel.app/api?username=AmirRezaHamidi&show_icons=true&theme=ADD_THEME_HERE" width="400">
-
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+ -->
