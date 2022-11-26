@@ -7,8 +7,6 @@ I'm currently working on seizure Prediction using advanced signal processing and
 Reach me @ amirrezahamidi75@gmail.com
 
 <img src="https://github-readme-stats.vercel.app/api?username=AmirRezaHamidi&show_icons=true&theme=ADD_THEME_HERE" width="400">
-<!--
-**AmirRezaHamidi/AmirRezaHamidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -20,4 +18,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
