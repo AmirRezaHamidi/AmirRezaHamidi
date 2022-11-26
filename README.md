@@ -1,4 +1,4 @@
-### Welcome to my GitHub Page 
+### AmirReza Hamidi
 
 - 🌱 Signal Processing Engineer
 
@@ -8,7 +8,9 @@
 
 - 👯 Happy Coding ...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirRezaHamidi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirRezaHamidi&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 
