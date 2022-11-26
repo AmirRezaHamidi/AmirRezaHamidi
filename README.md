@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-I'm a signal Processing Enginneir
+I'm a signal Processing Engineer
+
 I'm currently working on seizure Prediction using advanced signal processing and machine learning techniques
 
-Reach me 
+Reach me @ amirrezahamidi75@gmail.com
 
 <img src="https://github-readme-stats.vercel.app/api?username=AmirRezaHamidi&show_icons=true&theme=ADD_THEME_HERE" width="400">
 <!--
