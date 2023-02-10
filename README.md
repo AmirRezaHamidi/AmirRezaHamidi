@@ -5,14 +5,21 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:amirrezahamidi75@gmail.com)
 [![Github](https://img.shields.io/github/followers/AmirRezaHamidi?label=Follow&style=social)](https://github.com/AmirRezaHamidi)
 - 🌱 Signal Processing Engineer
-
-- 🔭 Currently working on Precise seizure Prediction using advanced signal processing and machine learning techniques
-
 - 📫 Reach me At amirrezahamidi75@gmail.com
 
-- 👯 Happy Coding ...
+
+### ⚙️ Tech Stack
+
+![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535)
+![Bootstrap](https://img.shields.io/badge/-TensorFlow-05122A?style=flat-square&logo=TensorFlow&color=353535) 
+![Bootstrap](https://img.shields.io/badge/-PyTorch-05122A?style=flat-square&logo=PyTorch&color=353535) 
+![Bootstrap](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat-square&logo=Scikit-Learn&color=353535) 
+![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535) 
+![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=353535) 
+![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&logo=Matplotlib&color=353535) 
+![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535)
 
 <div>
-<!--   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmirRezaHamidi&show_icons=true&locale=en&layout=compact" alt="AmirRezaHamidi"> -->
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmirRezaHamidi&show_icons=true&locale=en&layout=compact" alt="AmirRezaHamidi" />
   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=AmirRezaHamidi&" alt="AmirRezaHamidi" />
 </div>
